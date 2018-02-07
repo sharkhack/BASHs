@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+#
+# Azer Bulbul
+#
 
 filename="your-file-name.txt"
 base64 --decode ${filename}  > "${filename}-decompressed.txt"
