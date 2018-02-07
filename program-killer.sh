@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-#killall program; elapsed time longer than entered time
+# Azer Bulbul
+#
+# killall program; elapsed time longer than entered time
 #
 
 tottime=10.00
